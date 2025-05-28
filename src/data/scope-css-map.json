@@ -1,0 +1,1 @@
+{"dist/a.css":{"selectors":[{"raw":".a","flat":".a-5"}],"scopeName":"a","hashedName":"a-5","stripClasses":true},"dist/b/a.css":{"selectors":[{"raw":".a","flat":".a-6"}],"scopeName":"a","hashedName":"a-6","stripClasses":true},"dist/c/a.css":{"selectors":[{"raw":".a","flat":".a-3"}],"scopeName":"a","hashedName":"a-3","stripClasses":true}}
