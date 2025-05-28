@@ -5,7 +5,7 @@ module.exports = {
   dontFlatten: false, // Keep compound selectors rather than BEM-style flattening
   useIDs: true, // Use IDs (1, 2, 3, 4) instead of hash (3d0ccd)
   dontHashFirst: false, // The first scope of a certain type doesn't get an ID or hash
-  mergeCss: 'merged.css', // Merge all the CSS into one file
+  mergeCss: false, // Merge all the CSS into one file
   writeRuntimeMap: true, // Write the map needed for runtime auto-BEM
   copyImgs: true, // Copy images to the output folder
   copyJs: true, //Copy JS files - auto-disabled with webpack
